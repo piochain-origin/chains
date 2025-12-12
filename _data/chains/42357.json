@@ -1,0 +1,25 @@
+{
+  "name": "PIOGOLD Mainnet",
+  "chain": "PIO",
+  "icon": "piogold",
+  "rpc": [
+    "https://pioscan.com/api/eth-rpc"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "PIOGOLD",
+    "symbol": "PIO",
+    "decimals": 18
+  },
+  "infoURL": "https://pioscan.com",
+  "shortName": "pio",
+  "chainId": 42357,
+  "networkId": 42357,
+  "explorers": [
+    {
+      "name": "PIOGOLD Explorer",
+      "url": "https://pioscan.com",
+      "standard": "EIP3091"
+    }
+  ]
+}
